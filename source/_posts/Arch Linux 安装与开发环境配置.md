@@ -4,6 +4,7 @@ title: Arch Linux 安装与开发环境配置
 author: Li-Ke Ma
 date: 2018-11-08
 category: Computer Engineering
+title_banner: https://upload.wikimedia.org/wikipedia/commons/7/74/Arch_Linux_logo.svg
 ---
 笔者由于工作学习需要，时不时就要安装新系统，为了方便工作，避免重复查找，特此将一些安装中注意事项记录在此。
 <!-- toc -->
